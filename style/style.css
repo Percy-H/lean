@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    gap: 3rem;
+    margin: auto;
+}
+
+p {
+    margin: 0rem;
+    font-family: 'Sono', sans-serif;
+    text-align: center;
+
+}
+
+img {
+    width: 128px;
+
+}
+
+.verse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
